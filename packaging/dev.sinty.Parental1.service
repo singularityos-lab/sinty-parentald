@@ -1,0 +1,4 @@
+[D-BUS Service]
+Name=dev.sinty.Parental1
+Exec=/usr/libexec/sinty-parentald
+User=root
